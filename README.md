@@ -1,2 +1,1 @@
-# SigmaDev
-My Personal Repository
+### About Me ###
